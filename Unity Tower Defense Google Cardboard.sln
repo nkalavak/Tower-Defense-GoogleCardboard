@@ -1,12 +1,24 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity Tower Defense Google Cardboard", "Unity Tower Defense Google Cardboard.csproj", "{5EA1C799-CCCD-9A74-8E88-7EB562CF00C0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity Tower Defense Google Cardboard.Editor", "Unity Tower Defense Google Cardboard.Editor.csproj", "{8627363D-3B28-A6CF-F229-BD6A3CB6DFDF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5EA1C799-CCCD-9A74-8E88-7EB562CF00C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5EA1C799-CCCD-9A74-8E88-7EB562CF00C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5EA1C799-CCCD-9A74-8E88-7EB562CF00C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5EA1C799-CCCD-9A74-8E88-7EB562CF00C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8627363D-3B28-A6CF-F229-BD6A3CB6DFDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8627363D-3B28-A6CF-F229-BD6A3CB6DFDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8627363D-3B28-A6CF-F229-BD6A3CB6DFDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8627363D-3B28-A6CF-F229-BD6A3CB6DFDF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
